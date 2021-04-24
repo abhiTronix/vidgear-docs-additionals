@@ -28,6 +28,7 @@ Additional files for vidgear docs.
 	ea5951b33297318395e573f3f8670c21  streamgear_video_chunks/chunk-stream0-00002.webm
 	b9ab3263b8d8c55bb30e09d88993a4bb  streamgear_video_chunks/chunk-stream3-00002.m4s
 	0efb298281b7292c10216fb5083280d6  streamgear_video_chunks/chunk-stream0-00005.webm
+	04deb48604a2da184d326052b2fc1664  streamgear_video_chunks/hd_thumbnail.jpg
 	a9a5640b4de51c1d4c7100663a441d82  streamgear_video_chunks/init-stream0.webm
 	7b0a7d3be6d6097a08cf264b9f7baf04  streamgear_video_chunks/chunk-stream2-00005.m4s
 	9d69c36e9431e80c809d5833f5a3f49c  streamgear_video_chunks/chunk-stream0-00004.webm
@@ -51,6 +52,7 @@ Additional files for vidgear docs.
 	c1b90c2e0cea234cc4e53c424f08e257  stabilizer_video_chunks/chunk-stream0-00005.m4s
 	d38a8bae26a9e3644ea78d176c583a55  stabilizer_video_chunks/chunk-stream0-00001.m4s
 	cfe22f16f745e0174a41f71bac062fdd  stabilizer_video_chunks/chunk-stream0-00002.m4s
+	cb313f52410dbd739089b1c8c158685b  stabilizer_video_chunks/hd_thumbnail.png
 	749ed4c07675847ce5223b984aa8fae9  stabilizer_video_chunks/init-stream0.m4s
 	d430801a113fcf3a22a68d9881036133  stabilizer_video_chunks/stabilizer_dash.mpd
 	becb3d5bd776922cab54359143c650f3  stabilizer_video_chunks/chunk-stream0-00003.m4s
