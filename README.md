@@ -54,6 +54,7 @@ Additional files for vidgear docs.
 	cfe22f16f745e0174a41f71bac062fdd  stabilizer_video_chunks/chunk-stream0-00002.m4s
 	cb313f52410dbd739089b1c8c158685b  stabilizer_video_chunks/hd_thumbnail.png
 	749ed4c07675847ce5223b984aa8fae9  stabilizer_video_chunks/init-stream0.m4s
+	ccc5c2e0962aa10f687253018501e63d  stabilizer_video_chunks/hd_thumbnail_2.png
 	d430801a113fcf3a22a68d9881036133  stabilizer_video_chunks/stabilizer_dash.mpd
 	becb3d5bd776922cab54359143c650f3  stabilizer_video_chunks/chunk-stream0-00003.m4s
 	```
